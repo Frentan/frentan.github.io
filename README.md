@@ -1,2 +1,2 @@
 # frentan.github.io
-Just my personal website.
+Just a simple HTML website.
